@@ -1,2 +1,2 @@
-export * from  './ImageCropperComponent';
+export { ImageCropperComponent } from  './ImageCropperComponent';
 export { ImageCropperModule } from './ImageCropper.module';
