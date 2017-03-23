@@ -30,22 +30,22 @@
     "url": "https://github.com/dschoeni/ng2-papers-image-cropper/issues"
   },
   "devDependencies": {
+    "@angular/common": "2.x.x",
+    "@angular/compiler": "2.x.x",
+    "@angular/compiler-cli": "2.x.x",
+    "@angular/core": "2.x.x",
+    "@angular/platform-browser": "2.x.x",
+    "@angular/platform-browser-dynamic": "2.x.x",
     "rimraf": "2.5.x",
-    "typescript": "2.0.x"
+    "rxjs": "5.x.x",
+    "tslint": "3.15.x",
+    "typescript": "2.0.x",
+    "zone.js": "0.x.x"
   },
   "dependencies": {
-    "@angular/common": "2.3.x",
-    "@angular/compiler": "2.3.x",
-    "@angular/compiler-cli": "2.3.x",
-    "@angular/core": "2.3.x",
-    "@angular/platform-browser": "2.3.x",
-    "@angular/platform-browser-dynamic": "2.3.x",
     "blueimp-canvas-to-blob": "3.3.0",
     "exif-js": "exif-js/exif-js#5b6cd6599f801c44490af525adb90da9b5651751",
     "hammerjs": "2.0.8",
-    "reflect-metadata": "0.1.x",
-    "rxjs": "5.0.0-beta.12",
-    "tslint": "3.15.x",
-    "zone.js": "0.6.x"
+    "reflect-metadata": "0.1.x"
   }
 }
